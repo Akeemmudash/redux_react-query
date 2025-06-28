@@ -1,5 +1,6 @@
 Global State Management with Redux Toolkit and TanStack Query
-This repository contains a tutorial project that demonstrates how to implement professional and optimized global state management in a Vite + React (JavaScript) application using Redux Toolkit for UI state and TanStack Query for server state. The tutorial focuses on practical examples, best practices, and performance optimizations, particularly to avoid unnecessary re-renders when syncing server and UI state.
+This repository contains a tutorial project that demonstrates how to implement professional and optimized global state management in a Vite + React (JavaScript) application using Redux Toolkit for UI state and TanStack Query for server state.
+The tutorial focuses on practical examples, best practices, and performance optimizations, particularly to avoid unnecessary re-renders when syncing server and UI state.
 Aims of the Tutorial
 
 Learn Redux Toolkit: Understand how to use createSlice, createAsyncThunk, and configureStore to manage UI state (e.g., filters, modals) in a scalable way.
